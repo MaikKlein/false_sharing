@@ -1,0 +1,8 @@
+[package]
+name = "false_sharing"
+version = "0.1.0"
+authors = ["maik klein <maikklein@googlemail.com>"]
+
+[dependencies]
+itertools = "0.5.8"
+crossbeam = "0.2"
